@@ -11,7 +11,9 @@ On Tuesday 20th August at 16.00 (Capital Suite 4) I'll be giving a talk on my ne
 Workshop
 ---
 
-On Tuesday 20th August at 13.30 (Capital Suite room 7) I'll be showcasing the [GRaF R package](http://cran.r-project.org/web/packages/GRaF/index.html "GRaF package") as part of a workshop on [New Computational Methods in R](http://www.intecol2013.org/70_NewComputationalMethodsinRworkshop.html "Workshop"). The workshop is being put together by [Matthew Smith] (http://research.microsoft.com/en-us/people/mattsmi/) from the BES's [computational ecology special interest group](http://www.britishecologicalsociety.org/getting-involved/special-interest-groups/computational-ecology/ "computational ecology SIG") - which you should join if any of this stuff interests you!
+On Tuesday 20th August at 13.30 (Capital Suite room 7) I'll be showcasing the [GRaF R package](http://cran.r-project.org/web/packages/GRaF/index.html "GRaF package") as part of a workshop on [New Computational Methods in R](http://www.intecol2013.org/70_NewComputationalMethodsinRworkshop.html "Workshop").
+
+The workshop is being put together by [Matthew Smith] (http://research.microsoft.com/en-us/people/mattsmi/) from the BES's [computational ecology special interest group](http://www.britishecologicalsociety.org/getting-involved/special-interest-groups/computational-ecology/ "computational ecology SIG") which you should join if any of this stuff interests you!
 
 The workshop starts at 12.15, so come along then to see presentations on other new R packages, including Mark Stevenson's work on the geographic profiling.
 
@@ -22,6 +24,7 @@ During the workshop, I'll be stepping through how GRaF differs from other SDM ap
 Here are  that I found useful for getting to grips with Gaussian random fields (AKA Gaussian processes).
 
 [Rasmussen & Williams' Gaussian Processes book](http://www.gaussianprocess.org/gpml) is free to download and gives a comprehensive overview of GPs. They come from a machine learning perspective and the maths is pretty dense, so it isn't very easy reading for non-technical.
+
 [This blog post](http://www.jameskeirstead.ca/blog/gaussian-process-regression-with-r/) shows how to code up your own Gaussian process regressions in R and is a bit mnore accessible.
 
 
