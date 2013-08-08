@@ -30,7 +30,7 @@ text
 
 * [Friedrisch Leisch's tutorial](http://cran.r-project.org/doc/contrib/Leisch-CreatingPackages.pdf)
 * This is a useful-looking [blog post](http://biostat.mc.vanderbilt.edu/wiki/Main/HowToCreateAnRPackage)
-* IF you're using Windows, you'll need to install [RTools](http://cran.r-project.org/bin/windows/Rtools/)
+* If you're using Windows, you'll need to install [RTools](http://cran.r-project.org/bin/windows/Rtools/)
 
 ### RStudio & github for R packages
 
