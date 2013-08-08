@@ -1,4 +1,4 @@
-intecol2013
+INTECOL 2013
 ===========
 
-material for my talk and wrkshop bit at the INTECOL 2013 conference
+Material for my talk and workshop bit at the INTECOL 2013 conference - under construction!
