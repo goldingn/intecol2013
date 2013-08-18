@@ -5,7 +5,8 @@ Here's some material for my talk and workshop bit at the [INTECOL 2013 conferenc
 
 Talk
 ---
-On Tuesday 20th August at 16.00 (Capital Suite 4) I'll be giving a talk on my new species distribution modelling approach GRaF. The abstract etc. can be found [here](http://eventmobi.com/INTECOL2013/#!/session/183611/ "GRaF talk abstract"). I'll upload the talk when it's done and stick a link to it here.
+On Tuesday 20th August at 16.00 (Capital Suite 4) I'll be giving a talk on my new species distribution modelling approach GRaF. The abstract etc. can be found [here](http://eventmobi.com/INTECOL2013/#!/session/183611/ "GRaF talk abstract").
+The slides for my talk can be downloaded from [figshare](http://figshare.com/articles/GRaF_Fast_flexible_Bayesian_species_distribution_modelling_using_Gaussian_random_fields/775351)
 
 
 Workshop
@@ -18,14 +19,16 @@ The workshop is being put together by [Matthew Smith] (http://research.microsoft
 The workshop starts at 12.15, so come along then to see presentations on other new R packages, including Mark Stevenson's work on the geographic profiling.
 
 ### Tutorial
-During the workshop, I'll be stepping through how GRaF differs from other SDM approaches. I'll basically be going through this [tutorial](https://rawgithub.com/goldingn/intecol2013/master/tutorial/graf_workshop.html "GRaF tutorial)"). I'll try and update this tutorial with any extra stuff that comes up in the meeting.
+During the workshop, I'll be stepping how to fit models in GRaF and how the approach differs from other SDMs approaches. I'll basically be going through this [tutorial](https://rawgithub.com/goldingn/intecol2013/master/tutorial/graf_workshop.html). I'll try and update this with any extra stuff that comes up in the meeting.
+
+If you want to follow along, you can download the r code on its own [here](https://github.com/goldingn/intecol2013/blob/master/tutorial/graf_workshop.R)
 
 ### GRF links
 Here are  that I found useful for getting to grips with Gaussian random fields (AKA Gaussian processes).
 
 [Rasmussen & Williams' Gaussian Processes book](http://www.gaussianprocess.org/gpml) is free to download and gives a comprehensive overview of GPs. They come from a machine learning perspective and the maths is pretty dense, so it isn't very easy reading for non-technical.
 
-[This blog post](http://www.jameskeirstead.ca/blog/gaussian-process-regression-with-r/) shows how to code up your own Gaussian process regressions in R and is a bit mnore accessible.
+[This blog post](http://www.jameskeirstead.ca/blog/gaussian-process-regression-with-r/) shows how to code up your own Gaussian process regressions in R and is a bit more accessible.
 
 
 ### Building R packages
