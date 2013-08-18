@@ -1,7 +1,7 @@
 INTECOL 2013
 ===========
 
-Here's some material for my talk and workshop bit at the [INTECOL 2013 conference](http://www.intecol2013.org/ "INTECOL 2013 website"). This page and material are still under construction.
+Here is some material for my talk and my workshop presentation at the [INTECOL 2013 conference](http://www.intecol2013.org/ "INTECOL 2013 website").
 
 Talk
 ---
